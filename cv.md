@@ -1,3 +1,4 @@
+![Sivitskaya Darya](https://github.com/DaryaSolomennikova/rsschool-cv/blob/gh-pages/images/myphoto.jpeg)
 # **Darya Sivitskaya**
 Front End Developer
 ##  Contact me
@@ -8,7 +9,7 @@ Front End Developer
 5. Telegram: **@dara_wild**
 6. Discord: **DaraWild (@DaryaSolomennikova)**
 ## Profile
-I’m 25 year old. I had been working in various companies as a sales assistant and and I realized that this isn’t my dream job. I want to work with my brain, create something new, and solve complex problems. I try to learn programing all my time, I want be productive. I have completed course "frontend devepepment" at Teach Me Skills and completed preparatory course at Rolling Scopes Schooll. I want to become a frontend developer. And I seeking an entry-level position with Company to use my skills in coding, troubleshooting complex problems, and assisting in the timely completion of projects.
+I’m 25 year old. I had been working in various companies as a sales assistant and and I realized that this isn’t my dream job. I want to work with my brain, create something new, and solve complex problems. I try to learn programing all my time. I have completed course "Frontend development" at Teach Me Skills and completed preparatory course at Rolling Scopes Schooll. I want to become a frontend developer. And I seeking an entry-level position with Company to use my skills in coding, troubleshooting complex problems, and assisting in the timely completion of projects.
 ## Employment history
 ### Kiss Expo
 _Minsk, Belarus_
